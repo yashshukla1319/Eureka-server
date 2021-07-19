@@ -1,0 +1,9 @@
+
+eureka:
+  instance:
+
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    healthcheck:
+      enable: true
